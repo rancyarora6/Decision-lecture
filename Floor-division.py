@@ -1,0 +1,5 @@
+'''Floor division of two numbers'''
+n1=int(input("Enter first number: "))
+n2=int(input("Enter second number: "))
+Total=n1//n2 
+print(f"The sum is {Total}") 
